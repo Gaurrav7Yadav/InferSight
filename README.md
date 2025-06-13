@@ -1,4 +1,4 @@
-# 🧠 InferSight — Self-hosted LLM-powered OCR Field Extraction System
+# 🧠 InvoXtract — Self-hosted LLM-powered OCR Field Extraction System
 
 > **A full-stack AI document parsing engine with proprietary OCR, custom local LLM, and zero cloud dependencies.**
 
@@ -13,6 +13,13 @@ We engineered a **custom offline pipeline** combining proprietary OCR with a ful
 From parsing invoices and trade bills to auto-filling enterprise ERPs, InferSight automates what used to be a manual bottleneck — and does it up to **89% faster** than traditional workflows.
 
 > 🎓 Along the way, we learned to build LLM inference engines, prompt design, OCR layout parsing, regex post-processing, and even front-end integration — all from the ground up.
+
+
+
+
+https://github.com/user-attachments/assets/9e1fa961-40c4-4271-b0b3-6a3e15a29721
+
+
 
 ---
 
