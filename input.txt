@@ -1,0 +1,57 @@
+-
+6
+26, Gariahat (South) Dakuria,
+Kolkata- 700031
+contact: 033-29712027,
+9836512340
+E-mail:
+maarhabarestaurantegmail.com
+Name:
+Date: 18/10/18
+Dine In: 6
+22:45
+cashier: Raju
+Bill No.: 5365
+Persons: 2
+No.Item
+Qty.
+Price
+Amount
+Water Bottle
+1
+1
+30.00
+30.00
+(packeged)
+Crispy Chilll
+2
+1
+170.00
+170.00
+Baby Corn
+Kashmiri
+3
+1
+130.00
+130.00
+Pulao
+Kadai
+-
+1
+250.00
+250.00
+Chicken
+Mutton
+5
+1
+220.00
+220.00
+Biriyani
+6 Soft Drinks
+1
+40.00
+40.00
+Sub
+Total Qty: 6
+840.00
+Total

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Document Field Extractor</title>
+  <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+  <h1>Upload Document</h1>
+  <form id="upload-form" enctype="multipart/form-data">
+    <input type="file" id="document" name="document" accept=".pdf,.jpg,.jpeg,.png" required />
+    <button type="submit">Upload</button>
+  </form>
+
+  <div id="result-fields" style="display: none;">
+    <h2>Extracted Fields</h2>
+    <div class="field"><label>Document Number:</label><input type="text" id="docNumber" /></div>
+    <div class="field"><label>Document Date:</label><input type="text" id="docDate" /></div>
+    <div class="field"><label>Validity Till Date:</label><input type="text" id="validity" /></div>
+    <div class="field"><label>Document Currency:</label><input type="text" id="currency" /></div>
+    <div class="field"><label>Document Value:</label><input type="text" id="value" /></div>
+    <div class="field"><label>Document Subtype:</label><input type="text" id="subtype" /></div>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

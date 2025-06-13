@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  .field {
+    margin-top: 10px;
+  }
+  
